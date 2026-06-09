@@ -10,7 +10,7 @@ Microsoft Prompt Flow has been deprecated, a new customized approach is needed t
 
 The Solution
 
-This build calls for a customized prompt tuning change management CI/CD solution.  The proposed system will accurately assess, remediate, and trace changes, which subsequently leads to KPI-driven improvements in model performance.  
+This build calls for a customized Foundry prompt tuning change management CI/CD solution.  The proposed system will accurately assess, remediate, and trace changes, which subsequently leads to KPI-driven improvements in model performance.  
 
 Questions to be answered:
 
