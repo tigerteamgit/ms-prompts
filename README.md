@@ -24,6 +24,8 @@ What does success look like?
 Prompt Engineering for Language Models (PELM) Framework
 
 <img width="470" height="242" alt="image" src="https://github.com/user-attachments/assets/38d68811-b50f-4664-a34a-40afd4a960a4" />
+<br></br>
+
 
 <img width="473" height="277" alt="image" src="https://github.com/user-attachments/assets/367c1cf2-0c70-4503-9978-343c58d02edc" />
 
@@ -45,6 +47,7 @@ Template Testing
 Task Testing
 
 Prompt Key Identifier Table (Multiple Keys for easier indexing)
+<br></br>
 <img width="520" height="58" alt="image" src="https://github.com/user-attachments/assets/fe2c9996-af26-4376-8596-07fba1babb75" />
 
 
