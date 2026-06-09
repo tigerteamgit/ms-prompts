@@ -52,12 +52,15 @@ Prompt Key Identifier Table (Multiple Keys for easier indexing)
 
 
 Prompt Specification Table
+<br></br>
 <img width="548" height="168" alt="image" src="https://github.com/user-attachments/assets/3dd31db4-1da3-41ca-b85f-9608fa94e213" />
 
 Change Management LLMOps Table
+<br></br>
 <img width="548" height="99" alt="image" src="https://github.com/user-attachments/assets/0d687e56-6fe7-4df0-98d0-e391fb8b08f9" />
 
 Game-Specific Muli-Modal Table
+<br></br>
 <img width="542" height="86" alt="image" src="https://github.com/user-attachments/assets/b1dbd8ec-841a-4afd-a479-04e22065ad49" />
 
 Task (summarization, translation, coding, role-play, brainstorming)
@@ -80,7 +83,8 @@ language
 Statistical Analysis (response accuracy, coherence, diversity)
 Bias
 
-Experiment 1
+Experiment 1:
+<br></br>
 <img width="519" height="281" alt="image" src="https://github.com/user-attachments/assets/e97e65e5-a99a-4be7-bfaf-2439a28a58f9" />
 
 
