@@ -46,6 +46,8 @@ Testing:
 Template Testing
 Task Testing
 
+Hard->Soft Prompting Strategy
+
 Prompt Key Identifier Table (Multiple Keys for easier indexing)
 <br></br>
 <img width="520" height="58" alt="image" src="https://github.com/user-attachments/assets/fe2c9996-af26-4376-8596-07fba1babb75" />
