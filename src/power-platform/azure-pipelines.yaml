@@ -1,0 +1,5 @@
+# azure-pipelines.yaml
+steps:
+  - task: PowerPlatformToolInstaller@0
+  - task: PowerPlatformImportSolution@0
+  - task: PowerPlatformChecker@0
