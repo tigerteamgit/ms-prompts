@@ -65,6 +65,8 @@ Game-Specific Muli-Modal Table
 
 Task (summarization, translation, coding, role-play, brainstorming)
 Prompt Type (zero-shot, one-shot, few-shot, instruction-based, chain-of-thought, contextual, role-based, reflexive prompting, multi-modal prompting)
+Statistical Analysis (response accuracy, coherence, diversity)
+<br></br>
 Quality Gates
 Max Tokens
 TTL
@@ -80,7 +82,6 @@ grade
 Folderpath
 datapath
 language
-Statistical Analysis (response accuracy, coherence, diversity)
 Bias
 
 Experiment 1:
