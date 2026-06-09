@@ -64,16 +64,20 @@ Game-Specific Muli-Modal Table
 <img width="542" height="86" alt="image" src="https://github.com/user-attachments/assets/b1dbd8ec-841a-4afd-a479-04e22065ad49" />
 
 Task (summarization, translation, coding, role-play, brainstorming)
+<br></br>
 Prompt Type (zero-shot, one-shot, few-shot, instruction-based, chain-of-thought, contextual, role-based, reflexive prompting, multi-modal prompting)
+<br></br>
 Statistical Analysis (response accuracy, coherence, diversity)
 <br></br>
 Quality Gates
+<br></br>
 Max Tokens
 TTL
 Topics
 Line number
 Run_id
 url
+<br></br>
 Category
 evidence
 Groundtruth
