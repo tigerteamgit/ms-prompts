@@ -1,4 +1,4 @@
-Prompt As Code
+<ht>Prompt As Code</h1>
 
 Prompts are inputs to Language Learning Models (LLMs).  Natural language is a code that the model interprets into 0s and 1s.  In order to communicate to a machine, you must talk like a machine. 
 
