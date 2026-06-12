@@ -94,6 +94,45 @@ Experiment 1:
 <br></br>
 <img width="519" height="281" alt="image" src="https://github.com/user-attachments/assets/e97e65e5-a99a-4be7-bfaf-2439a28a58f9" />
 
+Goal:
+
+Build highly enriched dataset for scalability into RAG Fine-Tuning (RAFT) Framework
+
+->Quality - understand what a good labeled document is
+->Tokenization Method - prioritize name-entity-recognition (NER)
+->Create and Train on similar tasks to avoid overfitting data
+-> Identify high-priority tasks
+-> Develop scoring parameters
+->Data Storage- what is the most efficient way to store data to train on
+
+Domain Categorization -  perform RAG
+
+Prompt Library Categorization - Kmodes to segment data
+
+PCA to find data anomaly inferences (like dog-poker)
+
+Taxonomy: (know how to retrieve data)
+Metadata schema: format, purpose, location, and creation date
+
+Dataset Enrichment:
+
+Nodes
+
+Prompt
+Prompt Type
+Role
+Task
+Context
+Constraints
+Examples
+
+Edges
+
+Token-max
+Indexes, TF-IDF, 
+Word chunk (Document or smaller)
+Tokenization Method, Token group (possible NERs)
+PCA edge
 
 
 
